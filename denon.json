@@ -1,5 +1,6 @@
 {
-  "allow": ["net", "env"],
+  "allow": ["net", "env", "read", "plugin", "write"],
+  "unstable": true,
   "$schema": "https://deno.land/x/denon/schema.json",
   "scripts": {
     "start": "index.ts"
