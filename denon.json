@@ -1,0 +1,7 @@
+{
+  "allow": ["net", "env"],
+  "$schema": "https://deno.land/x/denon/schema.json",
+  "scripts": {
+    "start": "index.ts"
+  }
+}
